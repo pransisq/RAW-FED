@@ -1,0 +1,59 @@
+{
+  "product": [
+    {
+      "id": 201,
+      "name": "iPhone 17e",
+      "brand": "Apple",
+      "description": "The iPhone 17e features an Apple A19 chip that supports Apple Intelligence. The single rear camera remains as a 48MP Fusion version that supports 12, 24, or 48 megapixel photography, and Visual Intelligence. The front camera also remained at 12MP and supports Face ID. The notched 6.1-inch Super Retina XDR display resembles that of the iPhone 14 and does not include the Dynamic Island of current higher-end models. It is the second iPhone model to implement a notch since the iPhone 14 and 14 Plus. The A19 chip only contains 4 GPU cores, indicating binning, but now contains Neural Accelerators, not present in the iPhone 16e. It also does not include the Camera Control button. The iPhone 17e also features Ceramic Shield 2, introduced in the iPhone 17 series, and MagSafe. The iPhone 17e comes in 3 colors: White, Black, and Soft Pink.",
+      "memoryOptions": ["256GB", "512GB"],
+      "colorOptions": ["Soft Pink", "White", "Black"],
+      "price": 28990.0,
+      "stock": 10,
+      "image": "img/17e.webp"
+    },
+    {
+      "id": 202,
+      "name": "iPhone Air ",
+      "brand": "Apple",
+      "description": "The iPhone Air features an Apple A19 Pro SoC (System on a Chip) and comes with iOS 26 pre-installed. However, the A19 Pro in the iPhone Air only contains 5 GPU cores, unlike the 6 GPU cores in the iPhone 17 Pro models, indicating the use of binning. The slim profile was made possible by moving the majority of the electronics into a \"plateau\" surrounding the single 48 MP \"Fusion\" camera. The rest of the phone's body is made rigid by a flat-sided titanium frame that houses an ultra-thin battery. The flat-sided frame features contoured edges, and the matte back of the phone is reinforced with a thin Ceramic Shield. Meanwhile, the screen uses Ceramic Shield 2 for improved scratch resistance.",
+      "memoryOptions": ["256GB", "512GB", "1TB"],
+      "colorOptions": ["Light Gold", "Black", "White", "Sky Blue"],
+      "price": 10000.0,
+      "stock": 5,
+      "image": "img/air.webp"
+    },
+    {
+      "id": 203,
+      "name": "iPhone 17 Pro ",
+      "brand": "Apple",
+      "description": "The iPhone 17 Pro features the Apple A19 Pro SoC (System on a Chip) with 12 GB of RAM, a redesigned triple camera layout with a new 48MP 4x telephoto, an Apple N1 chip and comes with iOS 26 pre-installed.",
+      "memoryOptions": ["256GB", "512GB", "1TB"],
+      "colorOptions": ["Cosmic Orange", "Deep Blue", "Silver"],
+      "price": 10000.0,
+      "stock": 8,
+      "image": "img/17pro.webp"
+    },
+    {
+      "id": 204,
+      "name": "iPhone 17 Pro Max",
+      "brand": "Apple",
+      "description": "The iPhone 17 Pro features a new aluminum chassis, contrasting the previous titanium chassis used in iPhone 15 Pro and iPhone 16 Pro, and the stainless steel chassis used in iPhone X, iPhone XS and iPhone 11 Pro to 14 Pro. It is also the first iPhone Pro model to not feature a neutral dark color option, with Deep Blue being the only dark colorway.",
+      "memoryOptions": ["256GB", "512GB", "1TB", "2TB"],
+      "colorOptions": ["Cosmic Orange", "Deep Blue", "Silver"],
+      "price": 10000.0,
+      "stock": 11,
+      "image": "img/17pro1.webp"
+    },
+    {
+      "id": 205,
+      "name": "iPhone 17",
+      "brand": "Apple",
+      "description": "The iPhone 17 features the Apple A19 SoC (System on a Chip) and comes with iOS 26 pre-installed.",
+      "memoryOptions": ["256GB", "512GB"],
+      "colorOptions": ["Sage", "Lavender", "Mist Blue", "Black"],
+      "price": 10000.0,
+      "stock": 21,
+      "image": "img/17.webp"
+    }
+  ]
+}
